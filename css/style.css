@@ -1,0 +1,15 @@
+.navbar{
+    color: #a23132;
+}
+.hower:hover{
+    background-color: rgb(120, 112, 112);
+}
+#imge{
+    height: 300px;
+}
+#imagall:hover{
+  transition: all 0.3s ease;
+  transform: scale(1.15);
+  border: 1px solid #a23132;
+  background-color: #a23132;
+}
